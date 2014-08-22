@@ -1,0 +1,23 @@
+{
+  "name": "parse-custom-xhr",
+  "version": "0.0.1",
+  "description": "parse-custom-xhr",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spacenick/parse-custom-xhr.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spacenick/parse-custom-xhr/issues"
+  },
+  "homepage": "https://github.com/spacenick/parse-custom-xhr",
+  "dependencies": {
+    "localStorage": "^1.0.2",
+    "xmlhttprequest": "git+ssh://git@github.com/killme2008/node-XMLHttpRequest.git"
+  }
+}
