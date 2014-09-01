@@ -1,6 +1,6 @@
 {
   "name": "parse-custom-xhr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "parse-custom-xhr",
   "main": "parse.js",
   "scripts": {
